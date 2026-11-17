@@ -1,5 +1,6 @@
 sistema de reportes inasistencias, actitudinal y academico.
 <<<<<<< HEAD
+<<<<<<< HEAD
 Descripcion:Este sistema es un proyecto academico desarollado para facilitar concentracion de reportes actitudiales , y academicos y de inasistencias
 
 Herramiesntas de desarrollo 
@@ -16,6 +17,13 @@ Desarrolladores:
 =======
 
 Descripcion:este sistema es un proyecto academico desarollado para facilitar concentracion de reportes actitudiales , y academicos y de inasistencias
+=======
+descripcion:este sistema es un proyecto academico desarollado para facilitar concentracion de reportes actitudiales , y academicos y de inasistencias
+=======
+
+Descripcion:este sistema es un proyecto academico desarollado para facilitar concentracion de reportes actitudiales , y academicos y de inasistencias
+>>>>>>> cdf9b23ff085811715cf1448dc9ae46ab934b39a
+>>>>>>> 7b9ce7cf048e06065f10f3e2b3bee927daf4da3f
 
 herramiesntas de desarrollo 
     github (repositorio)
@@ -23,10 +31,20 @@ herramiesntas de desarrollo
     python(lenguaje de programacion)
     visual studio code 
 # equipo2_sistema_sIAA
+<<<<<<< HEAD
 Ese sistema es una herramienta que me permite concentrar los reportes actitudinales, de inasistencia y academicos.Autores y Desarrolladores
     * Daniel valdes
     * Angel Ricardo
     * Adrian Alejandro
     *Isui gabriel
     * Rubi 
+=======
+<<<<<<< HEAD
+Ese sistema es una herramienta que me permite concentrar los reportes actitudinales, de inasistencia y academicos.
+autores y desarrolladores:
+    -david suarez huerta
+=======
+Ese sistema es una herramienta que me permite concentrar los reportes actitudinales, de inasistencia y academicos.Autores y Desarrolladores
+dabid suarezhuerta
+>>>>>>> 7b9ce7cf048e06065f10f3e2b3bee927daf4da3f
 >>>>>>> cdf9b23ff085811715cf1448dc9ae46ab934b39a
